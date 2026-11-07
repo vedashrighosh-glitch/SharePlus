@@ -1,2 +1,1 @@
-# SharePlus
-**SharePlus** is a web platform that connects MSMEs, startups, and professionals by matching unused assets with unmet operational needs. It enables multi-party resource pooling, structured agreements, and contribution tracking around shared business objectives.
+SharePlus is a web platform that connects MSMEs, startups, and professionals by matching unused assets with unmet operational needs. It enables multi-party resource pooling, structured agreements, and contribution tracking around shared business objectives.
